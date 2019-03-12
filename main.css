@@ -6,6 +6,7 @@ div{
   float:right;
   margin-right: 30%;
   text-align: center;
+  position: fixed;
 }
 
 input{
