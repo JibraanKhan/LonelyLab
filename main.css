@@ -1,0 +1,13 @@
+svg{
+  float:left;
+}
+
+div{
+  float:right;
+  margin-right: 30%;
+  text-align: center;
+}
+
+input{
+  margin-bottom: 5%;
+}
